@@ -1,8 +1,7 @@
 # Deep-Learning
 Deep Learning is the Subfield of Machine Learning and AI (similar to Human Brain)
 <h1 align="center">
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.igmguru.com%2Fblog%2Fwhat-is-deep-learning&psig=AOvVaw30vt80XRjfQclq0mFKAYgh&ust=1759781362017000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjLo9HujZADFQAAAAAdAAAAABAE
- <img src="" />
+ <img src="<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/418cdf6d-8d4e-4ed9-8dbb-73911d19964d" />
+" />
 </h1>
-
 
