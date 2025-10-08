@@ -1,0 +1,24 @@
+
+Python Age Prediction Project (Deep Learning)
+____________________________________________________________________________
+
+In the Python file, you will be creating a model to predict the age of abalone's from a subset of 
+the abalone dataset which we proide in CSV format. Part of the program is already implemented, 
+your goal is to set up the model, train the model on the training data set, and print out some results.
+
+
+These are the following details you need to implement:
+
+First you'll convert the feature dataset into a numpy array.
+
+Then you should create a Sequential model with 2 layers. The first layer 
+should be a Dense layer with 64 units, and the second layer should
+also be a Dense one with units set to 1.
+
+Once the model is set up, you should compile it with a MeanSquaredError() 
+loss and the optimizer set to optimizers.Adam().
+
+Then, when you fit the dataset on abalone_features and abalone_features, 
+make sure to set the following values: epochs=10, verbose=0.
+
+Finally, you should print both the history from fitting the model, and the model summary. 
