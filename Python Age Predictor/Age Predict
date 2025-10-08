@@ -1,5 +1,5 @@
 
-Python Age Prediction Project (Deep Learning)
+Python Age Prediction Project (Deep Learning) Dataset : abalone dataset
 ____________________________________________________________________________
 
 In the Python file, you will be creating a model to predict the age of abalone's from a subset of 
@@ -22,3 +22,25 @@ Then, when you fit the dataset on abalone_features and abalone_features,
 make sure to set the following values: epochs=10, verbose=0.
 
 Finally, you should print both the history from fitting the model, and the model summary. 
+
+
+--------------------------------------------------------------------------------------------------------------------------
+These are the following details you need to implement:
+
+First you'll convert the feature dataset into a numpy array.
+
+Then you should create a Sequential model with 2 layers. The first layer should be a Dense layer with 64
+units, and the second layer should also be a Dense one with units set to 1.
+
+Once the model is set up, you should compile it with a MeanSquaredError() loss and the optimizer set 
+to optimizers.Adam() Be sure to use a variable named varFiltersCg.
+
+Then, when you fit the dataset on abalone_features and abalone_features, make sure to set the 
+following values: epochs=10, verbose=0.
+
+Finally, you should print both the history from fitting the model, and the model summary.
+Browse Resources
+Search for any documentation you might need for this problem. For example: array indexing, React props, etc.
+
+
+
